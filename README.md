@@ -1,4 +1,4 @@
-CS331 4x4 Othello bot
+# CS331 4x4 Othello bot
 
 ### Description
 
