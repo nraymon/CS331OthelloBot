@@ -2,7 +2,7 @@
 
 ### Description
 
-The core logic of the Othello game was written by Erich Kramer and supplied to us by our instructor.
+The core logic of the Othello game was written by Erich Kramer and supplied to us by our instructor, but all the minimax logic was written by me.
 
 This program uses the minimax algroithm with no alpha-beta pruning to play the game Othello on a 4x4 board. There is no limit on how far it iterates down a tree, so it keeps going until it finds an end state of that tree.
 
